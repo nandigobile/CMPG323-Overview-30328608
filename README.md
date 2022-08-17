@@ -7,3 +7,5 @@ My branching strategy is... and can be seen in the diagram below
 
 ## Project and Repository Structure
 Structure looks like... see diagram below
+
+## List of repositories
