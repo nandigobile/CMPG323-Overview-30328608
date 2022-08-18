@@ -14,7 +14,7 @@ Each project will have its own repository. The overview repository will encompas
 
 ## List of repositories
 Links to other reposities created for other projects will be added to overview repository
-Other repositories to be created may be: CMPG323 Project 2 30328308, CMPG323 Project 3 30328308, CMPG323 Project 4 30328308, CMPG323 Project 5 30328308, CMPG323 POE 30328308 
+Other repositories to be created may be: CMPG323 Project 2 repository, CMPG323 Project 3 repository, CMPG323 Project 4 repository, CMPG323 Project 5 repository
 
 ##Use of .gitignore file
 An agile methodology approach is assumed for projects throughout the semester. Currently there is no use of gitignore files however updates will be made should a need arise for .gitignore files.
