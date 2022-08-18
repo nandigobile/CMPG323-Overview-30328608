@@ -7,7 +7,10 @@ My branching strategy is trunk based development. The main idea behind this stra
 
 
 ## Project and Repository Structure
-Structure looks like... see diagram below
+Each project will have its own repository. The overview repository will encompass links to the other project repositories.
+
+![image](https://user-images.githubusercontent.com/111441837/185397070-478a7443-10ab-414c-a199-9631ca17e8fe.png)
+
 
 ## List of repositories
 Links to other reposities created for other projects will be added to overview repository
