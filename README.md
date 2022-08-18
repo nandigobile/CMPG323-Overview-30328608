@@ -24,3 +24,4 @@ Currently the project and repository are public with 3 additional accounts added
 
 ##References
 CMPG323 Virtual class video recording
+Haddad, R. 2022. What Are the Best Git Branching Strategies. https://www.flagship.io/git-branching-strategies/#:~:text=A%20branching%20strategy%2C%20therefore%2C%20is,interact%20with%20a%20shared%20codebase. Date of access: 18 Aug. 2022
