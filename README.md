@@ -3,7 +3,8 @@ CMPG323 Project 1 | Introduction to working with repositories
 
 
 ## Branching strategies
-My branching strategy is... and can be seen in the diagram below
+My branching strategy is trunk based development. The main idea behind this strategy is to make smaller changes more frequently and to limit merge conflicts.
+
 
 ## Project and Repository Structure
 Structure looks like... see diagram below
